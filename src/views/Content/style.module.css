@@ -1,0 +1,16 @@
+.content {
+    text-align: justify;
+    -webkit-columns: 40px 2;
+    /* Chrome, Safari, Opera */
+    -moz-columns: 60px 2;
+    /* Firefox */
+    columns: 60px 2;
+}
+
+.heading {
+    font-size: 20px;
+    border-bottom: 2px solid #707070;
+    font-weight: 800;
+    margin-top: 18px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,263 @@
+{
+    "personalInformation" : {
+      "name": "Snehil Saluja",
+      "email": "snehilsaluja@gmail.com",
+      "phone": "+91-9335288200",
+      "linkedin": "linkedin.com/in/mrsnhl",
+      "github": "github.com/mrsnhl"
+    },
+    "educationalQualifications": [
+      {
+        "year": 2021,
+        "degree": "B. Tech, CE",
+        "institute": "Indian Institute of Technology, Kanpur",
+        "marks": "6.3/10.0"
+      },
+      {
+        "year": 2016,
+        "degree": "ISC XII",
+        "institute": "City Montessori School (ISC)",
+        "marks": "96.5%"
+      },
+      {
+        "year": 2014,
+        "degree": "ICSE X",
+        "institute": "City Montessori School (CISCE)",
+        "marks": "85.4%"
+      }
+    ],
+    "mainContent": [
+      {
+        "title": "Work Experience",
+        "type": "sections",
+        "content": [
+          {
+            "title": "OneDigit, a fintech startup for creators by IITKGP Alumni",
+            "subtitle": "Platform design & Full-stack development",
+            "location": "India",
+            "time": "Summer 2021",
+            "contentType": "paragraph",
+            "content": [
+              "Working closely with the CTO, to implement the fintech product OneDigit that caters to freelancers, creators and consultants"
+            ]
+          },
+          {
+            "title": "Soil Logics LLC, Stanford University",
+            "subtitle": "Full Stack Developer",
+            "location": "US (Work from Home)",
+            "time": "May 2020 - Dec 2020",
+            "contentType": "points",
+            "content": [
+              "Developed the company’s USP product from scratch - real time web app for geospatial analysis and visualization of soil health",
+              "Explored and implemented map visualization APIs from major geospatial frameworks like Mapbox and Google Maps",
+              "Built the frontend on VueJS using various Vue libraries to deploy the GIS application with more than 5 different map applications & views",
+              "Added functionality of Temporal analysis for analysing soil health over time - was awarded with a bonus for the same"
+            ]
+          },
+          {
+            "title": "India COVID Support",
+            "subtitle": "Project Technical Lead",
+            "location": "IIT Kanpur, India",
+            "time": "Apr 2021 - June 2021",
+            "contentType": "points",
+            "content": [
+              "Developed a progressive web application with VueJS frontend and MongoDB-Node-Express backend in just 48 hours",
+              "Co-developed a Twitter Tweet Scraper in Python which used NLP to process the tweets and autoreplied with data from the backend",
+              "Featured on National Television, India COVID Support had a daily active user count to a maximum of 65000",
+              "Maintained the React based web application, Covid Verified – parallelly developed by the Alumni of IIT Bombay who were preparing for the upcoming third wave"
+            ]
+          },
+          {
+            "title": "Employee Performance Feedback Mechanism",
+            "subtitle":
+              "IIT Kanpur Summer of Code, Medallion Social Innovators, Bangalore",
+            "location": "Bangalore, India",
+            "time": "Summer 2019",
+            "contentType": "paragraph",
+            "content": [
+              "Led a 5-membered team and developed a Real time web application using HTML, CSS and JS & deployed on Firebase for task management and score based employee performance feedback management system using a unique system of weighted 40-point ACTION score as specified to be used for assessment in the health centers of Medallion Social Innovators"
+            ]
+          },
+          {
+            "title": "KanopyTech Solutions",
+            "subtitle": "Python Tkinter UI Developer",
+            "time": "Winter 2018",
+            "contentType": "paragraph",
+            "content": [
+              "Developed the User Interface for the company’s electrolysis processing codes integrating their existing Python code with Tkinter"
+            ]
+          },
+          {
+            "title": "Goldcast LLC, Harvard University",
+            "subtitle": "Frontend Development Intern",
+            "time": "Aug 2020",
+            "contentType": "paragraph",
+            "content": [
+              "Developed the company’s Landing Page using JavaScript, HTML and CSS"
+            ]
+          },
+          {
+            "title": "Startup Incubation and Innovation Center",
+            "subtitle": "Strategy, Outreach and Tech Internship",
+            "time": "May 2019 - Apr 2021",
+            "contentType": "points",
+            "content": [
+              "Reported directly to VP Strategy (then Head, Strategy), ",
+              "Worked in the core team of the following projects like Kolhapur Startup Mission, Abhivyakti 2019",
+              "Managed a team of 2-6 first and second year interns to build strategic marketing and outreach content",
+              "Built and maintained the SIIC and all its websites, and email services"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Miscellaneous - Extra Curricular Activities",
+        "type": "points",
+        "content": [
+          "Mathematics - As a mathematics enthusiast, participated and represented IIT Kanpur and City Montessori School in various competitions of pre-college and college level Mathematics. Scored 113/122 in JEE Advanced 2017",
+          "Graphic and User Interface Design - Designed various logos, brandings and advertisements for various startups and clubs at IIT Kanpur. Represented IIT Kanpur in Inter IIT Cultural Meet twice bagging 4th and 6th positions in rebranding and User Interface Design in 2019",
+          "Logic, Aptitude and Mental Ability - Have participated and won various competitions and events in the same - Resonance Smart Kid Runner Up, NTSE Level 1 Scholar and many more achievements",
+          "2nd Runner Up, Naveen Wal District Chess Championship, Lucknow"
+        ]
+      },
+      {
+        "title": "Skills",
+        "type": "headedpoints",
+        "content": [
+          {
+            "title": "Proficient",
+            "type": "paragraph",
+            "content": ["C, Python, JavaScript and its frameworks"]
+          },
+          {
+            "title": "Experienced",
+            "type": "paragraph",
+            "content": ["C++, Java, Android, MATLAB"]
+          },
+          {
+            "title": "Technologies",
+            "type": "paragraph",
+            "content": [
+              "Open3D, OpenGL, DeckGL, VisGL OpenCV, MapBox, OSM, Google Maps API etc"
+            ]
+          },
+          {
+            "title": "Web",
+            "type": "paragraph",
+            "content": ["Node, React, Vue, TypeScript, Flutter, NextJS, ThreeJS"]
+          },
+          {
+            "title": "Utilities",
+            "type": "paragraph",
+            "content": [
+              "AWS, Shell Utilities, Git, Github, Github Actions, Jenkins, PostgreSQL, MongoDB, OpenCV, LATEX, Google Earth Engine etc"
+            ]
+          },
+          {
+            "title": "AWS",
+            "type": "paragraph",
+            "content": [
+              "S3, Cloudfront, Route 53, Cognito, Amplify, EC2, RDS, DynamoDB etc"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Relevant Projects",
+        "type": "sections",
+        "content": [
+          {
+            "title": "3D Reconstruction on Scenes and Structures",
+            "subtitle": "Undergraduate Project 1, IIT Kanpur (awarded A) Summer 2018",
+            "content": [
+              "Developed a Camera Calibration and Feature Matching web-app for Sparse and Dense 3D Reconstruction of Scenes and Structures as a first attempt to learning Photogrammetry and Computer Vision"
+            ]
+          },
+          {
+            "title": "Program Package for Positioning & Navigation using NavIC IIT Kanpur",
+            "subtitle": "Undergraduate Project 2, IIT Kanpur (awarded A) Fall 2019",
+            "content": [
+              "Developing a post processing Python program for navigation and positioning solely using the NavIC satellites developed by Indian Space Research Organisation using the code based solution and plan to extend to carrier-phase"
+            ]
+          },
+          {
+            "title": "Lotus cross-platform 3D game Engine",
+            "subtitle": "Contributor, Game Development Society",
+            "time": "Winter 2020"
+          },
+          {
+            "title": "Point Cloud to 3D Map of IIT Kanpur",
+            "subtitle": "IIT Kanpur Winter of Code",
+            "time": "Winter 2019"
+          },
+          {
+            "title": "Multi Terrain Vehicle",
+            "subtitle": "Mechanical Manufacturing Project",
+            "time": "Spring 2019"
+          },
+          {
+            "title": "Parthenon Temple",
+            "subtitle": "Metallurgical Manufacturing Project",
+            "time": "Spring 2019"
+          },
+          {
+            "title": "georinex",
+            "subtitle": "Open Source Contributor, Github",
+            "time": "2018-19"
+          },
+          {
+            "title": "Zero Velocity Detection using Phone",
+            "subtitle": "Course Project, Probability and Statistics",
+            "time": "Spring 2021"
+          },
+          {
+            "title": "Marine Gravity Analysis",
+            "subtitle": "Python, Course Project, Physical Geodesy",
+            "time": "Fall 2020"
+          }
+        ]
+      },
+      {
+        "title": "Scholastic Achievements",
+        "type": "points",
+        "content": [
+          "Bronze Medal, Asia’s International Teenagers Mathematics Olympiad, Nepal 2011 (amongst 1000+ selected candidates from over 20 countries of Asia)",
+          "Overall Runner Up (Gold + Silver + Silver + Bronze), International Young Mathematicians Convention (IYMC 2014) & Silver Medalist in IYMC 2012"
+        ]
+      },
+      {
+        "title": "Positions of Responsibility",
+        "type": "points",
+        "content": [
+          "President, Hall Executive Committee, Hall 12 IIT Kanpur, 2019-2021",
+          "Department Placement Coordinator, CE, IIT Kanpur 2020-21",
+          "Head, Web & Design, Election Commission, 2019-20",
+          "Editor, Vox Populi, Students Gymkhana, IIT Kanpur, 2018-19"
+        ]
+      }
+    ],
+    "courses": {
+      "courseLisubtitle": [
+        "Introduction to Programming",
+        "Data Structures and Algorithms*",
+        "Introduction to Computer Graphics*",
+        "UI/UX Design*",
+        "Numerical Methods",
+        "Laser Scanning & Photogrammetry",
+        "Adjustment Computations",
+        "Probability & Statistics",
+        "Remote Sensing",
+        "Coordinate Systems & Frames",
+        "Linear Algebra and ODE",
+        "Geographical Information Systems",
+        "Physical Geodesy",
+        "Partial Differential Equations",
+        "Global Navigation Satellite Systems",
+        "Multi Sensor Navigation"
+      ],
+      "symbols": {
+        "*": "Coursera"
+      }
+    }
+  }
+  

@@ -1,0 +1,10 @@
+.table tr th,
+.table tr td {
+    border: 1px solid #707070;
+    padding: 3px 20px;
+}
+.table {
+    width: 100%;
+    padding: 20px;
+}
+

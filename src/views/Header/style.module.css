@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.otherInformation {
+    text-align: right;
+    color: #333;
+}

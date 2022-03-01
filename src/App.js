@@ -18,10 +18,18 @@ function App() {
       <Content />
       <Footer />
     </div>
-    <div className={style.zoomButtons}>
+    <div className={style.bottomButtons}>
+      <div className={style.zoomButtons}>
     <button onClick={() => setZoom(z=>z*1.1)}>+</button>
       <button onClick={() => setZoom(z=>z*0.8)}>-</button>
       </div>
+      <div className={style.printButton}>
+      <button onClick={() => window.print()}><img alt="print" src="https://img.icons8.com/fluency-systems-regular/24/ffffff/print.png"/></button>
+      </div>
+      </div>
+      <div className={style.footer}>
+      Code, Cash or Coffee, contribute to the project&nbsp;&nbsp;<a href="https://github.com/mrsnhl/theresumeproject">here</a>  
+        </div>
     </div>
   );
 }

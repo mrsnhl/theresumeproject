@@ -8,19 +8,43 @@
     min-height: 297mm;
     background: white;
 }
-.zoomButtons {
+
+@media print {
+   .bottomButtons,
+   .footer {
+       visibility: hidden;
+    }
+    .body {
+        box-shadow: none;
+        background: none;
+        border: none;
+    }
+ }
+
+.bottomButtons {
     position: fixed;
     display: flex;
     flex-direction: column;
     bottom: 25px;
     right: 25px;
     z-index: 10;
-    background: transparent;
-    box-shadow: 0 20px 28px 0 rgba(0, 0, 0, 0.2), 0 26px 40px 0 rgba(0, 0, 0, 0.19);
+    background: transparent; 
 }
 
-.zoomButtons button {
-    padding: 6px 12px;
+.zoomButtons {
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.printButton button {
+    margin: 20px 0;
+}
+
+.zoomButtons button,
+.printButton button {
+    padding: 12px 12px;
     border: 0.5px solid #444;
     outline: none;
     font-weight: 900;
@@ -28,4 +52,15 @@
     font-size: 2rem;
     background: #333;
     color: white;
+}
+
+.footer {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.footer a {
+    color: #7388ff;
 }

@@ -16,6 +16,7 @@ function App() {
       <Header />
       <Table />
       <Content />
+      <br />
       <Footer />
     </div>
     <div className={style.bottomButtons}>

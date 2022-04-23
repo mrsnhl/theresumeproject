@@ -32,6 +32,19 @@
         "type": "sections",
         "content": [
           {
+            "title": "Grow Simplee",
+            "subtitle": "Software Developer Engineer I",
+            "location": "Bengaluru, India",
+            "time": "July 2021 - present",
+            "contentType": "points",
+            "content": [
+              "Single-handedly designed, developed and currently manage the client-side product Grow Simplee Warehouse Management System (wms.growsimplee.com) end to end from scratch - the application has been live into production since 6 months with 20+ weekly releases including feature development, improvements and bug fixes.",
+              "Setup the whole company's CI/CD using Github Actions across various environments and various use cases like deployment through mobile, email and API",
+              "Written and implemented the company wide React frontend Architecture across all the frontend products",
+              "Technologies used: HTML, CSS, JavaScript, React, Redux, Python, Django, Github Actions, Circle CI"
+            ]
+          },
+          {
             "title": "OneDigit, a fintech startup for creators by IITKGP Alumni",
             "subtitle": "Platform design & Full-stack development",
             "location": "India",
@@ -167,6 +180,20 @@
         "type": "sections",
         "content": [
           {
+            "title": "VakilLab LMS",
+            "subtitle": "Technical Lead",
+            "content" : [
+              "Leading the technical team of 5 interns to design and build a legal management system end to end (www.vakillab.com) which is still in alpha."
+            ]
+          },
+          {
+            "title": "The Civilized Developers Community",
+            "subtitle": "Founder and Community Leader",
+            "content" : [
+              "Founded a community of second and 80+ third-year Civil Engineering students of IIT Kanpur (called CivDevs) and mentored them to learn web and mobile app development up to the industry level whilst including a flavor of core concepts and application of Civil Engineering in the process. Concluded the first cohort with an internship offer to 32 students among the 35 students who passed the qualification tests."
+            ]
+          },
+          {
             "title": "3D Reconstruction on Scenes and Structures",
             "subtitle": "Undergraduate Project 1, IIT Kanpur (awarded A) Summer 2018",
             "content": [
@@ -184,6 +211,11 @@
             "title": "Lotus cross-platform 3D game Engine",
             "subtitle": "Contributor, Game Development Society",
             "time": "Winter 2020"
+          },
+          {
+            "title": "The Resume Project",
+            "subtitle": "Self Project",
+            "time": "Winter 2021"
           },
           {
             "title": "Point Cloud to 3D Map of IIT Kanpur",
